@@ -15,12 +15,10 @@
 
 /*bagian menu*/
 .wrap .menu{
-        color: white;
-	background: blue;
+	background: brown;
 }
 
 .wrap .menu ul{
-        color: white;
 	padding: 0;
 	margin: 0;
 	background: blue;
