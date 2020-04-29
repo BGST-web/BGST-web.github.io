@@ -1,5 +1,5 @@
 .wrap{
-	background: silver;
+	background: #808080;
 	width: 900px;
 	margin: 10px auto;
 }
@@ -15,13 +15,13 @@
 
 /*bagian menu*/
 .wrap .menu{
-	background: brown;
+	background: #964B00;
 }
 
 .wrap .menu ul{
 	padding: 0;
 	margin: 0;
-	background: brown;
+	background: #964B00;
 	overflow: hidden;
 }
 
