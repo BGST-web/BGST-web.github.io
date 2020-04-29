@@ -15,10 +15,12 @@
 
 /*bagian menu*/
 .wrap .menu{
+        color: white;
 	background: blue;
 }
 
 .wrap .menu ul{
+        color: white;
 	padding: 0;
 	margin: 0;
 	background: blue;
@@ -58,5 +60,11 @@
 
 .wrap .footer{
 	width: 100%;
-	padding: 10px;
+        height: 50px;
+        padding-left: 10px;
+        line-height: 50px;
+        background: #333;
+        color: #fff;
+        position: absolute;
+        bottom: 0px;
 }
