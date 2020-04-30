@@ -65,10 +65,11 @@
 		
 	#footer{
             padding:10px
+            wudth:auto;
+            height:50px
 	    background:#f0f0f0;
             position:absolute;
             bottom:0;
-            width:100%;
             text-align:center;
        }
        
