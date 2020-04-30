@@ -1,9 +1,5 @@
 <style type="text/css">
-                #body{
-                        background-color:#00FFFF
-
-		}
-#menu{
+                #menu{
 			width:auto;
 			height:30px;
 			padding:8px 0 0px 0;
@@ -24,7 +20,7 @@
 			font-family:Arial;
 			text-decoration:none;
 			margin:0 10px 0 0;
-			font-size:12px;
+			font-size:16px;
 			color:#000080;
 		}
 
@@ -42,7 +38,7 @@
 		#menu ul li:hover ul.child li a{
 			display:block;
 			padding:10px 20px 10px 20px;
-			background:#0057C7;
+			background:#ffdead;
 			margin:0 0 0 -20px;
 		}
 
