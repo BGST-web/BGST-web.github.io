@@ -1,7 +1,12 @@
-
-	background: #808080;
-	width: 900px;
-	margin: 10px auto;
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.body{
+      -webkit-animation: mymove 20s infinite; /* Chrome, Opera, and Safari */
+       animation: mymove 20s infinite; /* Sintaksis standar*/
+       background-color: #808080;
+</style>
 }
 
 /*bagian header*/
