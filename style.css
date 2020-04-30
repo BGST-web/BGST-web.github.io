@@ -6,7 +6,7 @@
        
        #header{
             width:auto;
-            height:350px;
+            height:275px;
             padding:20px;
             background:#ffefd5;
         } 
@@ -65,7 +65,7 @@
 		
 	#footer{
             padding:20px;
-            width:95%;
+            width:94%;
             height:25px;
 	    background:#f0f0f0;
             position:absolute;
