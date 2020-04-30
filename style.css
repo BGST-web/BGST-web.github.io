@@ -1,9 +1,12 @@
 <style type="text/css">
+                #body{
+                        background-color:#00FFFF
+
 		#menu{
 			width:auto;
 			height:30px;
 			padding:8px 0 0px 0;
-			background:#0057C7;
+			background:#ffdead;
 		}
 
 		#menu ul{
@@ -21,7 +24,7 @@
 			text-decoration:none;
 			margin:0 10px 0 0;
 			font-size:12px;
-			color:#fff;
+			color:#000080;
 		}
 
 		#menu ul li ul.child{
