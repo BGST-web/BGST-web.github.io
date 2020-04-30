@@ -1,7 +1,7 @@
 <style type="text/css">
 
        #body{
-             Background:#ffffe0;
+             background:#ffffe0;
         } 
        
        #header{
@@ -64,8 +64,8 @@
 	}
 		
 	#footer{
-            padding:10px
-            wudth:auto;
+            padding:10px;
+            width:auto;
             height:50px
 	    background:#f0f0f0;
             position:absolute;
