@@ -37,7 +37,10 @@
 }
 
 .badan{
+        -webkit-animation: mymove 20s infinite; /* Chrome, Opera, and Safari */
+        animation: mymove 20s infinite; /* Sintaksis standar*/
 	height: 550px;
+        background: #00FFFF;
 }
 /*bagian sidebar*/
 .wrap .badan .sidebar{
