@@ -1,11 +1,11 @@
-.wrap{
+
 	background: #808080;
 	width: 900px;
 	margin: 10px auto;
 }
 
 /*bagian header*/
-.wrap .header{
+.header{
 	background: yellow;
 	/*height: 50px;*/
 	padding: 2px 10px;
@@ -14,18 +14,18 @@
 /*akhir header*/
 
 /*bagian menu*/
-.wrap .menu{
+.menu{
 	background: #964B00;
 }
 
-.wrap .menu ul{
+.menu ul{
 	padding: 0;
 	margin: 0;
 	background: #964B00;
 	overflow: hidden;
 }
 
-.wrap .menu ul li{
+.menu ul li{
 	float: left;
 	list-style-type: none;
 	padding: 10px;
@@ -36,14 +36,14 @@
 	clear: both;
 }
 
-.wrap .content{
+.content{
 	background: red;
 	float: left;
 	height: 100%;
 	width: 75%;	
 }
 
-.wrap .footer{
+.footer{
         width: 100%;
         padding:10px;
         color: #333;
